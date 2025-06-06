@@ -9,7 +9,7 @@
 
 <div class="header">
     <h1>My GitHub Profile</h1>
-    <p> trying make a change in my life ! !</p>
+    <p> trying make a change in my life!</p>
 </div>
 
 </body>
