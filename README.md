@@ -37,3 +37,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ingahni&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=ingahni&color=green)
+
+![](https://komarev.com/ghpvc/?username=your-github-ingahni&color=green)
