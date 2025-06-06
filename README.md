@@ -25,16 +25,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>&nbsp;
-
-
-width="40" height="40"/>&nbsp;
-width="40" height="40"/>&nbsp;
-width="40" height="40"/>&nbsp;
-          
-          
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original-wordmark.svg" width="40" height="40"/>&nbsp;
+                         
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingahni&show_icons=true&theme=radical)
 
