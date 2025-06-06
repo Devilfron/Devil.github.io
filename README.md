@@ -15,7 +15,8 @@
 </body>
 </html>
 
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg
+### Language & tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python", width="40", height="40"/>&nbsp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingahni&show_icons=true&theme=radical)
 
