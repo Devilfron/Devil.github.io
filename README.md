@@ -15,6 +15,8 @@
 </body>
 </html>
 
+https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingahni&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingahni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
