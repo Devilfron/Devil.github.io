@@ -23,9 +23,8 @@
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Devilfron&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilfron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Devilfron&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Devilfron&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=Devilfron&color=green)
 
