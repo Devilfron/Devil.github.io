@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
 </head>
@@ -29,7 +29,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original-wordmark.svg" width="40" height="40"/>&nbsp;
                          
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devilfron&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devilfron&show_icons=true&theme=radical);
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devilfron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
