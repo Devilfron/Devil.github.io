@@ -4,7 +4,10 @@
     <p> trying make a change in my life!</p>
 </div>
 
-
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Python](https://shields.io)
 
 ### Language & tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
